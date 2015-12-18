@@ -1,0 +1,6 @@
+---
+applications:
+- name: oci-test
+  memory: 128M
+  instances: 1
+  host: oci-test
